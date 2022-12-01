@@ -1,3 +1,3 @@
 alert("Epic Modpack loaded!")
 
-const epicModpackVersion = 0.4;
+const version = 0.4;
