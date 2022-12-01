@@ -3,7 +3,7 @@ alert("Epic Modpack loaded!")
 function fetchVersion() {
   fetch("https://raw.githubusercontent.com/Epic43110/Epic-Modpack/main/version.txt", {mode: "cors"})
     .then((response) => response.text())
-    .then((text) => return(text))
+    .then((text) => { return(text) })
 }
 
 var clientVersion = fetchVersion();
