@@ -18,7 +18,10 @@ function fetchVersion() {
             var lastUpdate = data.lastUpdated;
             var info = data.info;
             if (epicModpack.firstCheck) {
-                epicModpack.clientVersion = liveVersion;
+                if (epicModpack.clientVersion != liveVersion) {
+                    epicModpack.clientVersion = liveVersion;
+                    alert(`Epic Modpack updated while you were gone!\nUpdate Version ${liveVersion} | ${lastUpdate}\nUpdate Recieved: ${new Date}\nUpdate Info: ${info}`)
+                }
                 localStorage.epicVersion = epicModpack.clientVersion;
                 epicModpack.firstCheck = false;
             }
