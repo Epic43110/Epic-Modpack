@@ -29,7 +29,7 @@ function fetchVersion() {
 
             if (epicModpack.clientVersion != liveVersion && epicModpack.showUpdate) {
                 epicModpack.showUpdate = false;
-                if (confirm(`Update required for Epic Modpack!\n\nUpdate Version: ${liveVersion}\nUpdate Sent${lastUpdate}\nUpdate Recieved: ${new Date}\nUpdate info: ${info}\n\nModpack will update next time you open BetterMope.\nWould you like to update right now? (This will refresh your page)`)) {
+                if (confirm(`Update required for Epic Modpack!\n\nUpdate Version: ${liveVersion}\nUpdate Sent: ${lastUpdate}\nUpdate Recieved: ${new Date}\nUpdate info: ${info}\n\nModpack will update next time you open BetterMope.\nWould you like to update right now? (This will refresh your page)`)) {
                     localStorage.epicVersion = liveVersion;
                     location.reload();
                 }
