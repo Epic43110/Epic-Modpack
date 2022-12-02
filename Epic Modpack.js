@@ -22,7 +22,7 @@ function fetchVersion() {
                 epicModpack.firstCheck = false;
             }
 
-            if (epicModpack.clientVersion < text && epicModpack.showUpdate) {
+            if (epicModpack.clientVersion != text && epicModpack.showUpdate) {
                 epicModpack.showUpdate = false;
                 if (confirm("Update required for Epic Modpack!\n\nModpack will update next time you open BetterMope.\nWould you like to update right now? (This will refresh your page)")) {
                     localStorage.epicVersion = text;
