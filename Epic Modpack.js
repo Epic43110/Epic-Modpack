@@ -6,6 +6,7 @@ var epicModpack = {
   showUpdate : true,
   updateChecks : 0
 }
+window.epicModpack = epicModpack;
 
 function fetchVersion() {
   fetch("https://raw.githubusercontent.com/Epic43110/Epic-Modpack/main/version.txt", {mode: "cors"})
