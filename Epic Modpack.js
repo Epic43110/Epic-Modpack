@@ -18,5 +18,6 @@ setInterval(function() {
     if (confirm("New Update for Epic Modpack!\n\nModpack will update next time you open BetterMope.\nWould you like to update right now? (This will refresh your page)")) {
       localStorage.epicVersion = newVersion;
       location.reload();
+    }
   }
 }, 5000)
