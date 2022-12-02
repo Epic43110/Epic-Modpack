@@ -1,9 +1,8 @@
 alert("Epic Modpack loaded!")
 
-var clientVersion = 0;
 var epicModpack = {
     clientVersion: 0,
-    firstCheck: false,
+    firstCheck: true,
     showUpdate: true,
     updateChecks: 0
 }
@@ -16,14 +15,14 @@ function fetchVersion() {
             epicModpack.updateChecks += 1;
             text = Number(text.replaceAll('\n', ''));
             if (epicModpack.firstCheck) {
-                clientVersion = text;
-                if (localStorage.epicVersion) {
-                    localStorage.epicVersion = clientVersion;
+                epicModpack.clientVersion = text;
+                if (!localStorage.epicVersion) {
+                    localStorage.epicVersion = epicModpack.clientVersion;
                 }
                 epicModpack.firstCheck = false;
             }
 
-            if (clientVersion < text && epicModpack.showUpdate) {
+            if (epicModpack.clientVersion < text && epicModpack.showUpdate) {
                 epicModpack.showUpdate = false;
                 if (confirm("Update required for Epic Modpack!\n\nModpack will update next time you open BetterMope.\nWould you like to update right now? (This will refresh your page)")) {
                     localStorage.epicVersion = text;
