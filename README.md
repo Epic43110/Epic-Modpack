@@ -8,8 +8,10 @@
 ## TO-DO:
   ### Mods:
   - XRAY - Hills/Rocks - Not Priority
+  - Make auto upgrade perferences
   - Make UI menu for entire modpack
   - Make chat shotcuts
+  - Make user keybind preferences
   - Relist and Reorder mod names and sections - 3rd Priority
   - Make different UI scale options - 2nd Priority
   - Figure out how to properly position elements - 1st Priority
