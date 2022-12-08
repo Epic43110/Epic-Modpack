@@ -37,6 +37,7 @@
   - XRAY - Hills/Rocks - Not Priority
   - Make auto upgrade perferences
   - Make UI menu for entire modpack
+  - Make skin switcher
   - Make chat shotcuts
   - Make user keybind preferences
   - Relist and Reorder mod names and sections - 3rd Priority
