@@ -31,6 +31,8 @@
 - color:outline:1 | Enables only outline colors
 - color:outline:0 | Disables only outline colors
 - color:outline:<color> | Sets only outline color to user choice ; Usage Example: "color:outline:red"
+- koa:1 | Enables makeshift koa effect ; ONLY VISIBLE TO YOU
+- koa:0 | Disables makeshift koa effect
 
 ## TO-DO:
 ### Mods:
