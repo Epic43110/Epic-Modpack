@@ -4,6 +4,7 @@
 
 ## Usage:
 ### KEYPRESSES:
+- DELETE | Toggle Menu Display
 - \ | Generate Alias Name
 - CTRL + \ | Reset Name; Set name to nothing
 - I | Toggle Auto Upgrade
