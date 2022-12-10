@@ -1,0 +1,24 @@
+FAIR:
+Generate Alias
+Auto Upgrade
+Chat Hotkeys
+Epic Stats
+Hide Interface
+Chat Filter Bypass
+Server Info
+Instant DC
+Makeshift KOA
+Animal Colors
+Client Chat
+Chat Shortcuts
+Camera Zoom
+View Hunger Games Leaderboard
+Player Indicators
+Ignore Players
+
+UNFAIR:
+Find #1
+Spectate In Game
+Player Data Display
+Data Copier
+Name/Chat Cache
