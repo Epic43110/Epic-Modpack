@@ -1,5 +1,5 @@
 {
-    "version" : 1.0,
-    "lastUpdated" : "Decemeber 17, 2022 4:11 AM UTC",
-    "info" : "Added an options UI where you can edit some preferences! More options coming soon!"
+    "version" : 1.1,
+    "lastUpdated" : "Decemeber 17, 2022 8:39 PM UTC",
+    "info" : "Fixed LocalStorage Options error."
 }
