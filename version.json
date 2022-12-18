@@ -1,5 +1,5 @@
 {
-    "version" : 2.1,
-    "lastUpdated" : "Decemeber 18, 2022 6:05 AM UTC",
-    "info" : "Added name colors on leaderboard aswell! Your name color on the leaderboard will be the same as what you set as your color:name. Added minimizing option for options UI"
+    "version" : 3,
+    "lastUpdated" : "Decemeber 18, 2022 8:22 PM UTC",
+    "info" : "Added Upgrade Menu Keybinds & Last death location marker & fixed small chathotkey saving issue"
 }
