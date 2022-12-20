@@ -1,5 +1,5 @@
 {
-    "version" : 3.3,
-    "lastUpdated" : "Decemeber 20, 2022 3:33 PM UTC",
-    "info" : "Fixed W / S registering issue & Fixed modpack showing people as orange even if they're not currently using the modpack."
+    "version" : 3.4,
+    "lastUpdated" : "Decemeber 20, 2022 10:09 PM UTC",
+    "info" : "Made zoom controls a little better."
 }
