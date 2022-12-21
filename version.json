@@ -1,5 +1,5 @@
 {
-    "version" : 3.4,
-    "lastUpdated" : "Decemeber 20, 2022 10:09 PM UTC",
-    "info" : "Made zoom controls a little better."
+    "version" : 3.5,
+    "lastUpdated" : "Decemeber 21, 2022 8:18 PM UTC",
+    "info" : "Added a version display at the top of the screen & made statistics and new version display toggleable."
 }
