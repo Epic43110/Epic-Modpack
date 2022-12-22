@@ -1,5 +1,5 @@
 {
-    "version" : 3.6,
-    "lastUpdated" : "Decemeber 22, 2022 3:29 AM UTC",
-    "info" : "Limited the zooming out to the range of the entire lava biome."
+    "version" : 3.7,
+    "lastUpdated" : "Decemeber 23, 2022 8:35 PM UTC",
+    "info" : "Fixed animal outlines not showing correct biome color & other smaller fixes."
 }
