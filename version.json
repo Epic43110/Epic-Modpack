@@ -1,5 +1,5 @@
 {
-    "version" : 3.5,
-    "lastUpdated" : "Decemeber 21, 2022 8:18 PM UTC",
-    "info" : "Added a version display at the top of the screen & made statistics and new version display toggleable."
+    "version" : 3.6,
+    "lastUpdated" : "Decemeber 22, 2022 3:29 AM UTC",
+    "info" : "Limited zooming out to the range of the entire lava biome."
 }
