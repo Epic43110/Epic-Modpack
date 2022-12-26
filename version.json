@@ -1,5 +1,5 @@
 {
-    "version" : 3.7,
-    "lastUpdated" : "Decemeber 23, 2022 8:35 PM UTC",
-    "info" : "Fixed animal outlines not showing correct biome color & other smaller fixes."
+    "version" : 4.0,
+    "lastUpdated" : "Decemeber 26, 2022 10:45 PM UTC",
+    "info" : "FINALLY Added the skin switcher! If you experience ANY FRAME DROPS, PLEASE report to Epic in the discord server."
 }
