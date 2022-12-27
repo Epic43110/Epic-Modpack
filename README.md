@@ -1,6 +1,6 @@
 # Epic Modpack - BetterMope
 
-# Install [HERE](https://greasyfork.org/en/scripts/455807-epic-modpack)
+# [Click Here to Install](https://greasyfork.org/en/scripts/455807-epic-modpack)
 
 ## Features:
 - Camera Zoom
