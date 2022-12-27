@@ -2,6 +2,27 @@
 
 # Install [HERE](https://greasyfork.org/en/scripts/455807-epic-modpack)
 
+## Features:
+- Camera Zoom
+- Generate Alias
+- Auto Upgrade
+- Chat Hotkeys
+- Anti AFK
+- Epic Statistics
+- Interface Toggles
+- Animal Colors
+- Player Indicators
+- Client Chat
+- Extended Chat Character Limit (35 -> 175)
+- Enable HG Leaderboard
+- Ignore Players
+- Upgrade Menu Keybinds
+- Display Last Death Location
+- Toggle StartMenuWrapper
+- Toggle Upgrade Menu
+- Skin Switcher
+- Chat Shortcuts (Not Available Yet)
+
 ## Usage:
 ### KEYPRESSES:
 - DELETE | Toggle Menu Display
@@ -34,20 +55,3 @@
 - color:outline:<color> | Sets only outline color to user choice ; Usage Example: "color:outline:red"
 - koa:1 | Enables makeshift koa effect ; ONLY VISIBLE TO YOU
 - koa:0 | Disables makeshift koa effect
-
-## TO-DO:
-### Mods:
-  - XRAY - Hills/Rocks - Not Priority
-  - Make auto upgrade perferences
-  - Make UI menu for entire modpack
-  - Make skin switcher
-  - Make chat shotcuts
-  - Make user keybind preferences
-  - Relist and Reorder mod names and sections - 3rd Priority
-  - Make different UI scale options - 2nd Priority
-  - Figure out how to properly position elements - 1st Priority
-  
-  ### Other
-  - Use Greasy Fork to grab obfuscated script from public github, then also grab another file for updates.
-  - Test GitHub public and private stuff
-    - Find a way to make 2 sections. One with private stuff and the other with public stuff. Maybe just make to repositories?

@@ -1,0 +1,19 @@
+Camera Zoom
+Generate Alias
+Auto Upgrade
+Chat Hotkeys
+Anti AFK
+Epic Statistics
+Interface Toggles
+Animal Colors
+Player Indicators
+Client Chat
+Extended Chat Character Limit (35 -> 175)
+Enable HG Leaderboard
+Ignore Players
+Upgrade Menu Keybinds
+Display Last Death Location
+Toggle StartMenuWrapper
+Toggle Upgrade Menu
+Skin Switcher
+Chat Shortcuts (Not Available Yet)
