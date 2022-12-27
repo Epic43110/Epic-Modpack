@@ -1,4 +1,4 @@
-# Epic Modpack - BetterMope
+# Epic Modpack - BetterMope | Made by Epic#7027 | [Discord Server](https://discord.gg/SHxwnYuxwK)
 
 # [Click Here to Install](https://greasyfork.org/en/scripts/455807-epic-modpack)
 
