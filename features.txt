@@ -3,7 +3,7 @@ Generate Alias
 Auto Upgrade
 Chat Hotkeys
 Anti AFK
-Epic Statistics
+Statistics
 Interface Toggles
 Animal Colors
 Player Indicators
