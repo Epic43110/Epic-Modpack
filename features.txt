@@ -16,5 +16,5 @@ Display Last Death Location
 Toggle StartMenuWrapper
 Toggle Upgrade Menu
 Skin Switcher
-View Underwater Animals
+See Underwater Animals
 Chat Shortcuts (Not Available Yet)

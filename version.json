@@ -1,5 +1,4 @@
 {
     "version" : 5.4,
-    "lastUpdated" : "January 20, 2023 6:47 PM UTC (GMT + 0)",
     "info" : "Made URL redirect to bettermope.io if not using that url & Made it hard to toggle the main menu by accident (Before press DELETE, now it CTRL + DELETE)"
 }
