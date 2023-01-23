@@ -13,6 +13,8 @@ function fetchVersion() {
             var liveVersion = data.version;
             var info = data.info;
 
+            localStorage.epicUpdating = localStorage.epicUpdating ?? "false";
+
             if (JSON.parse(localStorage.epicUpdating) && epicModpack.clientVersion != liveVersion) {
                 setTimeout("location.reload();", 3000);
                 clearInterval(checkUpdate);
