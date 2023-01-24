@@ -1,4 +1,4 @@
 {
-    "version" : 5.4,
-    "info" : "Made URL redirect to bettermope.io if not using that url & Made it hard to toggle the main menu by accident (Before press DELETE, now it CTRL + DELETE)"
+    "version" : 6.0,
+    "info" : "Added Auto Chat Translation!"
 }
