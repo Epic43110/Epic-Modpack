@@ -6,7 +6,7 @@ var epicModpack = {
 window.epicModpack = epicModpack;
 
 function fetchVersion() {
-    fetch("https://raw.githubusercontent.com/Epic43110/Epic-Modpack/main/version.json", {mode: "cors"})
+    fetch(`https://raw.githubusercontent.com/Epic43110/Epic-Modpack/main/version.json?x=${+new Date}`, {mode: "cors"})
         .then((response) => response.text())
         .then((data) => {
             data = JSON.parse(data)
