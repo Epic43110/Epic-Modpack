@@ -47,3 +47,4 @@ if (localStorage.epictester == "lol") {
 }
 
 alert("Epic modpack is currently offline!\nIt will come back very soon!\nCheck my discord server for progress updates.\nhttps://discord.gg/SHxwnYuxwK")
+alert("lol whoever is spamming my webhook get a life lmao")
