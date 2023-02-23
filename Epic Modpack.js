@@ -127,7 +127,7 @@ function checkClient() {
     typeof Animal != 'undefined' ? setTimeout(clientLoaded, 500, window.unsafeWindow) : setTimeout(checkClient, 100);
 }; checkClient();
 
-function clientLoaded(window) {
+function clientLoaded() {
     var all = ["formatNumK", "col_edibleOutline", "col_dangerOutline", "outlineColForBiome", "isSpectateMode", "lbCanvas", "miniMapCanvas", "pixelRat", "camzoom", "camx", "camy", "interfS", "canvasW", "canvasH", "dangerAniTypes", "gameObjsByID", "gameObjs", "myPlayerID", "serverCon_aliveInAGame", "serverFirstConnected", "xpPer_n", "playerCount", "respawnMsgText", "aniChoice_isOpen", "aniChoice_choiceButtons", "minimapW", "minimapH", "drawPlayerOnMiniMap", "curServer", "PingUrl", "main", "joinBestServerInRegion", "drawGameInterface", "aniChoiceButtonClicked", "MsgWriter", "wsSendMsg", "ESC_down", "toggleChatOpen"];
     window.all = all;
     var canvas = document.getElementById('gCanvas');
