@@ -3,25 +3,31 @@
 # [Click Here to Install](https://greasyfork.org/en/scripts/455807-epic-modpack)
 
 ## Features:
-- Camera Zoom
+- Find #1
+- Spectate In Game
+- Player Data Display
+- Data Copier
+- Name/Chat Cache
 - Generate Alias
 - Auto Upgrade
 - Chat Hotkeys
-- Anti AFK
-- Epic Statistics
-- Interface Toggles
+- Epic Stats
+- Hide Interface
+- Chat Filter Bypass
+- Server Info
+- Instant DC
+- Makeshift KOA
 - Animal Colors
-- Player Indicators
 - Client Chat
-- Extended Chat Character Limit (35 -> 175)
-- Enable HG Leaderboard
+- Chat Shortcuts (Not Available)
+- Camera Zoom
+- View Hunger Games Leaderboard
+- Player Indicators (Not Available)
 - Ignore Players
 - Upgrade Menu Keybinds
-- Display Last Death Location
-- Toggle StartMenuWrapper
-- Toggle Upgrade Menu
+- Last Death Location (Not Available)
 - Skin Switcher
-- Chat Shortcuts (Not Available Yet)
+- Auto Translate
 
 ## Usage:
 ### KEYPRESSES:
