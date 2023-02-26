@@ -42,6 +42,7 @@
 - P | Unignore Players
 - SCROLL | Zoom In/Out
 - SCROLL DOWNPRESS | Reset zoom to default
+- HOME | Toggle Upgrade Menu
 
 ### CHAT COMMANDS:
 - hide:interface
