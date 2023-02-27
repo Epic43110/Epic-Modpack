@@ -1,5 +1,5 @@
 var epicModpack = {
-    clientVersion: 7.1,
+    clientVersion: 7.2,
     firstCheck: true,
     showUpdate: true
 }
