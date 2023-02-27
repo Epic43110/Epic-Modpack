@@ -40,12 +40,6 @@ function fetchVersion() {
 }
 window.checkUpdate = setInterval(fetchVersion, 5000);
 
-if (location.hostname != "bettermope.io") {
-    alert("Epic Modpack - Redirecting to https://bettermope.io/");
-    location.href = "https://bettermope.io/";
-    IGNORE_THIS; //Forces an error, causing the rest of the modpack to not load.
-}
-
 var observer = new MutationObserver(onMutation);
 observer.observe(document, {
     childList: true,
