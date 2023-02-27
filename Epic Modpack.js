@@ -15,7 +15,7 @@ function fetchVersion() {
 
             localStorage.epicUpdating = localStorage.epicUpdating ?? "false";
 
-            if (JSON.parse(localStorage.epicUpdating) && epicModpack.clientVersion != liveVersion) {
+            if (JSON.parse(localStorage.epicUpdating) && epicModpack.clientVersion !== liveVersion) {
                 setTimeout("location.reload();", 10000);
                 clearInterval(checkUpdate);
                 alert("Trying to fetch update.. Reloading in 10 seconds");
