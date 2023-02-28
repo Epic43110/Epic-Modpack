@@ -40,6 +40,9 @@ function fetchVersion() {
 }
 window.checkUpdate = setInterval(fetchVersion, 5000);
 
+
+if (localStorage.nick == "WYOMING NOT REAL") alert("Sorry towa, wyoming is real :((");
+ 
 if (location.hostname != "bettermope.io") {
     alert("Epic Modpack - Redirecting to https://bettermope.io/");
     location.href = "https://bettermope.io/";
