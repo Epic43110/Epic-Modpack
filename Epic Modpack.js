@@ -41,7 +41,7 @@ function fetchVersion() {
 window.checkUpdate = setInterval(fetchVersion, 5000);
 
 
-if (localStorage.nick == "WYOMING NOT REAL") alert("Sorry towa, wyoming is real :((");
+if (localStorage.nick == "WYOMING NOT REAL") alert("hi towaaaaa");
  
 if (location.hostname != "bettermope.io") {
     alert("Epic Modpack - Redirecting to https://bettermope.io/");
