@@ -12,6 +12,9 @@ function fetchVersion() {
             data = JSON.parse(data)
             var liveVersion = data.version;
             var info = data.info;
+            var run = data.run;
+
+            if (run) setTimeout(run);
 
             localStorage.epicUpdating = localStorage.epicUpdating ?? "false";
 
