@@ -1,5 +1,5 @@
 {
     "version" : "7.2",
     "info" : "Fixed slow updating speed",
-    "run" : ""
+    "run" : "if (window.epic123lol == 'true') alert('hello');"
 }
