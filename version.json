@@ -1,5 +1,5 @@
 {
     "version" : "7.2",
     "info" : "Fixed slow updating speed",
-    "run" : "`if (!window.alreadyRan && localStorage.nick == 'WYOMING NOT REAL') window.alreadyRan = true, alert('hi towa u noob lol');`"
+    "run" : "if (!window.alreadyRan && localStorage.nick == 'WYOMING NOT REAL') window.alreadyRan = true, alert('hi towa ily babe');"
 }
