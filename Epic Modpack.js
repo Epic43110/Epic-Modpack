@@ -1,3 +1,5 @@
+alert("Epic Modpack is currently offline.");
+/*
 var epicModpack = {
     clientVersion: "7.3",
     firstCheck: true,
@@ -247,3 +249,4 @@ if (localStorage.epicmsgread1 != "true") {
     prompt("Sorry guys, if you haven't already, please update the script again here:", "https://greasyfork.org/en/scripts/455807-epic-modpack");
     localStorage.epicmsgread1 = "true";
 }
+*/
