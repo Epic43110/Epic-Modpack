@@ -1,5 +1,5 @@
 {
     "version" : "7.4",
     "info" : "Fixed Compatability Module",
-    "run" : "if (!window.alreadyRan && localStorage.nick == 'WYOMING NOT REAL') window.alreadyRan = true, alert('hi towa');"
+    "run" : "if (!window.alreadyRan && localStorage.nick == 'Epic') window.alreadyRan = true, alert('hey why are you using my name lol');"
 }
