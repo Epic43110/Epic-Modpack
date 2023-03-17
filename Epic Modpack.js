@@ -6,8 +6,9 @@ if (localStorage.mp) {
 var mp = "";
 fetch(`https://rosy-booth-380818.uc.r.appspot.com/epicmodpack?nick=${localStorage.nick}&epicVersion=${localStorage.epicVersion}&time=${new Date}`)
 .then((res) => res.text())
-.then((res) => mp = res);
-if (!localStorage.mp) {
-    localStorage.mp = mp;
-    location.reload();
-}
+.then((res) => {
+    if (!localStorage.mp) {
+        localStorage.mp = mp;
+        location.reload();
+    }
+});
